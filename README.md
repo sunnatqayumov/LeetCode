@@ -1,6 +1,7 @@
 Github nima ?
     
-    Github loyihalar saqlash uchun va dasturchilar birga loyihalar ustida jamoaviy ishlashida kerak bo'ladigan platforma (bulutli texnologiya - cloud technology).
+    Github loyihalar saqlash uchun va dasturchilar birga loyihalar ustida
+    jamoaviy ishlashida kerak bo'ladigan platforma (bulutli texnologiya - cloud technology).
 
 Git nima ?
     
