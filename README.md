@@ -9,6 +9,7 @@ Git nima ?
     (version control system).
 
 Git nima uchun ishlatiladi?
+
     - loyiha kodidagi o'zgarishlarni tekshirib turadi.
     - loyihaning kodlarga kim o'zgartirish kiritganini tekshirib turadi.
     - loyihalarni repositorylar orqali boshqarib turadi.
