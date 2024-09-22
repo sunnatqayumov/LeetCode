@@ -17,6 +17,7 @@ Git nima uchun ishlatiladi?
     - koddagi o'zgarishlarni repositoryga saqlaydi.
 
 Git komandalari:
+
     - git add <file name> == gitga ko'rsatilgan fileni qo'shadi.
     - git commit -m "comment" == koddagi o'zgarishlarni komentariya bilan commit qilib qo'yadi.
     - git push == loyihadagi o'zgarishlarni repositoryga qo'shadi.
